@@ -1,3 +1,4 @@
+package HW5;
 
 public class Dealer extends Person {
 	@Override

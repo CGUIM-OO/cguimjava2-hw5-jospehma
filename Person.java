@@ -1,5 +1,6 @@
-import java.util.ArrayList;
+package HW5;
 
+import java.util.ArrayList;
 public abstract class Person {
 	private ArrayList<Card> oneRoundCard;
 	public void setOneRoundCard(ArrayList<Card> cards){
